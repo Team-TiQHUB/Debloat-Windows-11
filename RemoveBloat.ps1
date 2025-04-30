@@ -12,7 +12,7 @@
 .Removes any unwanted installed applications
 .Removes unwanted services and tasks
 .Removes Edge Surf Game
-
+Modified by Nithin Kumar
 .INPUTS
 .OUTPUTS
 C:\ProgramData\Debloat\Debloat.log
